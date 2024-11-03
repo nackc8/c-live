@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "foxundermoon.shell-format",
+    "timonwong.shellcheck",
+    "esbenp.prettier-vscode",
+    "redhat.ansible",
+    "charliermarsh.ruff"
+  ]
+}
