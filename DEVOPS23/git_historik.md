@@ -40,3 +40,5 @@ Glömde innehåll i en fil, vill inte ändra commit-meddelande
 
 git add .
 git commit --amend --no-edit
+
+# Rebase
