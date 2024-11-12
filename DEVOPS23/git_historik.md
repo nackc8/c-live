@@ -24,3 +24,6 @@ ignored-tempgit main*​​
  1 file changed, 5 insertions(+)
  create mode 100644 minfil.txt
  ```
+
+Ändra senaste committen med amend:
+
