@@ -27,3 +27,7 @@ ignored-tempgit main*​​
 
 Ändra senaste committen med amend:
 
+git commit --amend # ändrar meddelandet
+
+Oops! Glömde en fil!
+
