@@ -1,0 +1,1 @@
+git bisect kan användas för att hitta den commit där något fel introducerades.
