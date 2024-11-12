@@ -46,3 +46,8 @@ git commit --amend --no-edit
 Interaktiv rebase:
 
 git rebase -i HEAD~2   # rebase på de två senaste committarna
+
+Innan:
+pick 5a06d6f En till commit.
+pick 3618ff3 more
+
