@@ -16,6 +16,8 @@ if ! git checkout "$datepart" 2>/dev/null; then
 		Dagens branch verkar inte skapad och pushad ännu. Testa igen
 		om en stund!
 	eom
+	git checkout main 2>/dev/null
+	git pull
 	exit 1
 fi
 echo
