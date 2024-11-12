@@ -42,3 +42,6 @@ git add .
 git commit --amend --no-edit
 
 # Rebase
+
+Interaktiv rebase:
+
