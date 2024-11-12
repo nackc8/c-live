@@ -26,4 +26,3 @@ path = .gitconfig_github_c8
 
 [includeIf "hasconfig:remote.*.url:git@github.com:nackc8/**"]
 path = .gitconfig_github_nackc8
-
