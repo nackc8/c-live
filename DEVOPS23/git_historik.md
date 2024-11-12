@@ -36,3 +36,7 @@ Oops! Glömde en fil!
 ignored-tempgit main
 ❯ git commit --amend   ^C
 
+Glömde innehåll i en fil, vill inte ändra commit-meddelande
+
+git add .
+git commit --amend --no-edit
