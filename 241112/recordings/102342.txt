@@ -1,0 +1,124 @@
+Script started on 2024-11-12 10:23:42+01:00 [TERM="xterm-256color" TTY="/dev/pts/8" COLUMNS="102" LINES="22"]
+[?2004h
+[34mc-live/241112[0m [90m241112[38;5;218m*​[36m [0m
+[35m❯[0m cd
+[?2004l[?2004h
+[34m~[0m 
+[35m❯[0m [H[2J
+[34m~[0m 
+[35m❯[0m ls
+[?2004l basetests			 foo			 Music
+ bin				 i1-bash-i3		 Pictures
+ bokforing			 i2-python-i3		 pingurl
+ cicd-devops23-pingurl-pingurl	 i3-powershell-i3	 Screenshots
+ c-live				 i4-docker-i3		 shared_desktop
+ Desktop			 i5-ansible-i3		 tempgit
+ Documents			 i6-ansible-projekt-i3	 test-infra-uppgift-1-kc8se
+ Downloads			 i-live			 testsql
+ Dropbox			 l1-live		'VirtualBox VMs'
+[?2004h
+[34m~[0m 
+[35m❯[0m cd cicd-devops23-pingurl-pingurl/
+[?2004l[?2004h
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [0m
+[35m❯[0m [H[2J
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [0m
+[35m❯[0m git log
+[?2004l[?1h=[33mcommit f3aa5ed336732b90f7d1acd259f2e0e3bebcb4d1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 15:07:20 2024 +0100[m
+[m
+    docs: improve assignment description[m
+[m
+[33mcommit c4f286c9590fd7ae6a03174edebf50bee1f2bf51[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 13:37:40 2024 +0100[m
+[m
+    fix: assignment description and code[m
+[m
+[33mcommit 9bca6216f1d435bdd9cad6f8d95d6c19a140086e[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 04:52:42 2024 +0100[m
+[m
+    chore(mil1.md): introduktion och första uppgifter[m
+[m
+[33mcommit 7bb70098aa4bea0eb17ce586c6201346e50354eb[m[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>[m
+Date:   Mon Nov 11 03:56:04 2024 +0000[m
+:[K[K[m
+    Initial commit[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K[?1l>[?2004h
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [0m
+[35m❯[0m [H[2J
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [0m
+[35m❯[0m git hs[K[K[K[K[K[Kgit log
+[?2004l[?1h=[33mcommit f3aa5ed336732b90f7d1acd259f2e0e3bebcb4d1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 15:07:20 2024 +0100[m
+[m
+    docs: improve assignment description[m
+[m
+[33mcommit c4f286c9590fd7ae6a03174edebf50bee1f2bf51[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 13:37:40 2024 +0100[m
+[m
+    fix: assignment description and code[m
+[m
+[33mcommit 9bca6216f1d435bdd9cad6f8d95d6c19a140086e[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 04:52:42 2024 +0100[m
+[m
+    chore(mil1.md): introduktion och första uppgifter[m
+[m
+[33mcommit 7bb70098aa4bea0eb17ce586c6201346e50354eb[m[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>[m
+Date:   Mon Nov 11 03:56:04 2024 +0000[m
+:[K[K[?1l>[?2004h
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [33m2s[0m 
+[35m❯[0m [H[2J
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [33m2s[0m 
+[35m❯[0m git hs
+[?2004l[?1h=* [33mf3aa5ed [36m19 hours ago [34mKent Larsson[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m [mdocs: improve assignment [m [33m[36m[34m[m[33m[m[1;36m[m[1;32m[m[33m[m[1;31m[m[33m[m[1;31m[m[33m[m[mdescription[m
+* [33mc4f286c [36m21 hours ago [34mKent Larsson[m [mfix: assignment description and code[m
+* [33m9bca621 [36m22 hours ago [34mKent Larsson[m [mchore(mil1.md): introduktion och första uppgifter[m
+* [33m7bb7009 [36m29 hours ago [34mgithub-classroom[bot][m [mInitial commit[m
+[K[?1l>[?2004h
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [0m
+[35m❯[0m git log
+[?2004l[?1h=[33mcommit f3aa5ed336732b90f7d1acd259f2e0e3bebcb4d1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 15:07:20 2024 +0100[m
+[m
+    docs: improve assignment description[m
+[m
+[33mcommit c4f286c9590fd7ae6a03174edebf50bee1f2bf51[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 13:37:40 2024 +0100[m
+[m
+    fix: assignment description and code[m
+[m
+[33mcommit 9bca6216f1d435bdd9cad6f8d95d6c19a140086e[m[m
+Author: Kent Larsson <kent@c8.se>[m
+Date:   Mon Nov 11 04:52:42 2024 +0100[m
+[m
+    chore(mil1.md): introduktion och första uppgifter[m
+[m
+[33mcommit 7bb70098aa4bea0eb17ce586c6201346e50354eb[m[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>[m
+Date:   Mon Nov 11 03:56:04 2024 +0000[m
+:[K[K[?1l>[?2004h
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [33m2s[0m 
+[35m❯[0m [H[2J
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [33m2s[0m 
+[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m [K[35m❯[0m code ~/.gitc/home/kent/.gitconfig
+[?2004l[?2004h
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [0m
+[35m❯[0m ls
+[?2004lassignment  backend_logs.http  docker-compose.yml  frontend  README.md
+backend     backend_ping.http  docs		   inbox
+[?2004h
+[34mcicd-devops23-pingurl-pingurl[0m [90mmain[36m [0m
+[35m❯[0m cd e[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2024-11-12 10:25:17+01:00 [COMMAND_EXIT_CODE="0"]

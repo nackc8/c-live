@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# shellcheck disable=SC2002
+
+# Script to convert a file's content to uppercase
+if [ -f "$1" ]; then
+    cat "$1" | tr '[:lower:]' '[:upper:]'
+else
+    echo "File not found or not provided."
+    exit 1
+fi
