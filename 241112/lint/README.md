@@ -11,3 +11,10 @@ select = ["I001", "I"]
 
 ruff check .
 
+Kod JavaScript:
+
+eslint
+
+Kod TypeScript
+
+tslint
