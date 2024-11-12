@@ -1,6 +1,3 @@
-Här är en beskrivning av `pre-commit`-hooken och ett exempel på en hook som kollar att commit-meddelanden inte slutar med en punkt:
-
-```markdown
 # pre-commit Hook
 
 `pre-commit`-hooken är en av de viktigaste klient-sidiga Git-hooks eftersom den körs innan en commit skapas. Detta gör att den kan stoppa commit-processen om vissa villkor inte är uppfyllda, vilket hjälper till att upprätthålla kodkvalitet och konventionsregler i projektet.
@@ -37,6 +34,3 @@ exit 0
    ```
 
 När denna hook är på plats kommer den att kontrollera commit-meddelandet varje gång en commit skapas. Om meddelandet slutar med en punkt, stoppas commit-processen med ett felmeddelande.
-```
-
-Denna `pre-commit`-hook hjälper till att hålla commit-meddelandena i linje med konventioner och undviker oönskade avslutande tecken.
