@@ -31,3 +31,8 @@ git commit --amend # ändrar meddelandet
 
 Oops! Glömde en fil!
 
+❯ git add entillfil.txt  ^C
+
+ignored-tempgit main
+❯ git commit --amend   ^C
+
