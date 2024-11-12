@@ -45,3 +45,4 @@ git commit --amend --no-edit
 
 Interaktiv rebase:
 
+git rebase -i HEAD~2   # rebase på de två senaste committarna
