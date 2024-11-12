@@ -1,4 +1,8 @@
-commitizen or gitlint.
+För commit-meddelanden:
+
+commitizen or gitlint
+
+Kod Python:
 
 ruff
 
